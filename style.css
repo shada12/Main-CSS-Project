@@ -58,7 +58,6 @@ header {
 
 .mainnav {
     padding-bottom: 5rem;
-    margin-right: 5rem;
     display: flex;
     flex-direction: row;
     gap: 0.7rem;
@@ -202,8 +201,6 @@ header {
 }
 
 .calltoAction {
-
-
 
     height: 6rem;
     width: 62rem;
