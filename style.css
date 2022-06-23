@@ -70,7 +70,6 @@ header {
 
 .button1 {
 
-
     margin-top: 0;
     background-color: #3882F6;
     border: 0px;
@@ -195,7 +194,7 @@ header {
 .thor p {
 
     text-align: right;
-  /*  margin-right: 8rem;*/
+    margin-right: 8rem;
     margin-top: 0;
     font-family: 'Roboto-Bold';
     padding: 0rem 0rem 0rem 0rem;
