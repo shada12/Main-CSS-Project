@@ -46,6 +46,7 @@ header {
 
     display: flex;
     flex-direction: row;
+    padding-top: 2rem;
 }
 
 .logo {
