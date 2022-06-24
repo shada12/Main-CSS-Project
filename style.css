@@ -112,7 +112,7 @@ header {
 .subdiv1 {
 
     padding-right: 0rem;
-    margin-left: 11rem;
+    margin-left: 8rem;
     flex-grow: 1;
     flex-basis: 0;
 
@@ -124,7 +124,7 @@ header {
 
     display: flex;
     flex-direction: column;
-    margin-right: 11rem;
+    margin-right: 8rem;
     flex-grow: 1;
     flex-basis: 0;
 
@@ -195,7 +195,7 @@ header {
 .thor p {
 
     text-align: right;
-    margin-right: 8rem;
+    margin-right: 7rem;
     margin-top: 0;
     font-family: 'Roboto-Bold';
     padding: 0rem 0rem 0rem 0rem;
