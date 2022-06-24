@@ -112,7 +112,7 @@ header {
 .subdiv1 {
 
     padding-right: 0rem;
-    margin-left: 9rem;
+    margin-left: 9.5rem;
     flex-grow: 1;
     flex-basis: 0;
 
@@ -124,7 +124,7 @@ header {
 
     display: flex;
     flex-direction: column;
-    margin-right: 9rem;
+    margin-right: 9.5rem;
     flex-grow: 1;
     flex-basis: 0;
 
