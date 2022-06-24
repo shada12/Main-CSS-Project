@@ -51,14 +51,14 @@ header {
 
 .logo {
 
-    padding-bottom: 5rem;
+    padding-bottom: 3rem;
     margin-top: 0;
     font-size: 24PX;
     color: #F9FAF8;
 }
 
 .mainnav {
-    padding-bottom: 5rem;
+    padding-bottom: 3rem;
     display: flex;
     flex-direction: row;
     gap: 0.7rem;
